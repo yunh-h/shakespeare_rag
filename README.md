@@ -7,7 +7,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system for answer
 ## Features
 - **Passage Retrieval**: Retrieves relevant passages from Shakespeare's works using FAISS and Sentence Transformers.
 - **Answer Generation**: Generates answers using OpenAI's GPT or a custom LLaMA model.
-- **Streamlit Interface**: Provides an interactive web interface for querying the system. (Currently for OpenAI API use only)
+- **Streamlit Interface**: Provides an interactive web interface for querying the system. (Currently for OpenAI API use only, please add your API to utils/openai.py to use the interface)
 - **Evaluation**: Includes tools for evaluating the retrieval and generation components.
 
 
