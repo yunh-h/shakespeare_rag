@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which sonnet contains \"Shall I compare thee to a summer's day?\"",
+        "answer": "Sonnet 18",
+        "id": ["sonnet_18"]
+    },
+    {
+        "question": "Which sonnet contains \"When I do count the clock that tells the time\"?",
+        "answer": "Sonnet 12",
+        "id": ["sonnet_12"]
+    },
+    {
+        "question": "Which sonnet contains \"Let me not to the marriage of true minds admit impediments\"?",
+        "answer": "Sonnet 116",
+        "id": ["sonnet_116"]
+    },
+    {
+        "question": "Which sonnet contains \"When in disgrace with fortune and men’s eyes\"?",
+        "answer": "Sonnet 29",
+        "id": ["sonnet_29"]
+    },
+    {
+        "question": "Which sonnet contains \"Tired with all these, for restful death I cry\"?",
+        "answer": "Sonnet 66",
+        "id": ["sonnet_66"]
+    },
+    {
+        "question": "Which play contains the line \"To be, or not to be, that is the question\"?",
+        "answer": "THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",
+        "id": ["book_7_chunk_84"]
+    },
+    {
+        "question": "Where can you find the line \"A horse! A horse! My kingdom for a horse!\"?",
+        "answer": "KING RICHARD THE THIRD",
+        "id": ["book_28_chunk_184", "book_28_chunk_185"]
+    },
+    {
+        "question": "Which play includes the line \"If music be the food of love, play on\"?",
+        "answer": "TWELFTH NIGHT; OR, WHAT YOU WILL",
+        "id": ["book_35_chunk_2"]
+    },
+    {
+        "question": "Which play contains \"We are such stuff as dreams are made on\"?",
+        "answer": "The Tempest",
+        "id": ["book_31_chunk_87"]
+    },
+    {
+        "question": "Which play features the line \"Cowards die many times before their deaths; The valiant never taste of death but once\"?",
+        "answer": "THE TRAGEDY OF JULIUS CAESAR",
+        "id": ["book_16_chunk_49"]
+    }
+]
