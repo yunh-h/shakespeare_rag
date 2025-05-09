@@ -35,7 +35,7 @@ Streamlit Interface:
 ```sh
 streamlit run run.py
 ```
-1. Open the Streamlit app in your browser (default: http://localhost:8502)
+1. Open the Streamlit app in your browser (usually at http://localhost:8501)
 
 2. Enter a query, such as:
     ```
